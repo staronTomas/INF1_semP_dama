@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Hra
+comment1.params=
+comment1.target=Hra()
+comment2.params=
+comment2.target=void\ hraj()
+comment3.params=ktoJeNaTahu1\ riadok1\ stlpec1\ newRiadok1\ newStlpec1
+comment3.target=boolean\ kontrolaTahu(java.lang.String,\ int,\ int,\ int,\ int)
+numComments=4

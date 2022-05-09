@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Figurka
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ HraciaPlocha\ here.\r\n\ \r\n\ @author\ (Tom\u00E1\u0161\ Staro\u0148)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=paFarba
+comment1.target=Figurka(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getFarbaFigurky()
+numComments=3
